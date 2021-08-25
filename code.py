@@ -13,4 +13,4 @@ def function2(a):
     for b in a.keys():
         print(b + ':' + str(a[b]/total))
 
-function2(function1('ATCTGACGCGCGCCG'))
+function2(function1('ATCTGACGCGCGCCGC'))
