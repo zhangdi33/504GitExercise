@@ -22,7 +22,7 @@ def count_basie(seq):
         if base not in base_count_dict:
             base_count_dict[base] = 1
         else:
-            base_count_dict[base] *= 1
+            base_count_dict[base] += 1
     return base_count_dict
 
 def print_base_fractions(count_dict):
