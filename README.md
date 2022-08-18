@@ -1,3 +1,1 @@
-# 504GitExercise
-
-Bad code
+# 504 git exercise
